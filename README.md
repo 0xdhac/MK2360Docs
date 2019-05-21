@@ -9,7 +9,7 @@ The MK2360 program is a tool that allows anyone running Windows to emulate an Xb
 
 # How to set up
 * Make sure you have a recent version of [.NET Framework].
-* Run the SETUP.bat file. This will install the [Interception] and [ScpDriverInterface] drivers needed to make this program function. If you wish to undo this and not use MK2360. Run the UNINSTALL.bat file.
+* Run the SETUP.bat file. This will install the [Interception] and [ScpDriverInterface] drivers needed to make this program function. Restart your PC. If you wish to undo this and not use MK2360. Run the UNINSTALL.bat file.
 * If you have a real controller plugged into your PC, either **don't touch it while your game is up**, or **unplug it**. A real controller can cause the program to not work.
 * You need to set the joystick deadzone for the game you're on to 0.0 for the aiming to feel smooth. If you're using this on Fortnite, here is a (**DO THIS WHILE YOUR GAME IS CLOSED**) [tutorial][DeadzoneTutorial].
 
